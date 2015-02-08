@@ -9,4 +9,3 @@
 - [Peter Munro](https://twitter.com/peter_munro)
 - [Jose Collas](https://twitter.com/goatstone)
 - [Phuc Nguyen](https://twitter.com/phuc89)
-- Awesome tutorial
