@@ -9,6 +9,7 @@ Or your GitHub profile:
 
 ---
 
+- [Scott Olmsted](http://www.railsrescue.com)
 - [Carl Sednaoui](https://twitter.com/carlsednaoui)
 - [Kara Leary](https://twitter.com/kalaliana)
 - [Peter Munro](https://twitter.com/peter_munro)
