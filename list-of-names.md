@@ -1,7 +1,7 @@
 # Add your name to this list
 > Feel free to use [Markdown](http://daringfireball.net/projects/markdown/syntax) to link to your Twitter profile:
 
-> `- [your name](your twitter profile URL)`
+> `- [tejdnk](https://twitter.com/tejdnk1)`
 
 Or your GitHub profile:
 
