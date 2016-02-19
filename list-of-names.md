@@ -25,3 +25,4 @@ Or your GitHub profile:
 - [Warren Harper](https://twitter.com/warrenharper)
 - [Geostarters](https://github.com/geostarters)
 - [Martin Fluch](http://www.mathema.de/unternehmen/mitarbeiter/martin-fluch)
+- [Zeeshan Ali](http://www.mathema.de/unternehmen/mitarbeiter/zeeshan-ali)
