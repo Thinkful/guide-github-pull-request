@@ -24,3 +24,4 @@ Or your GitHub profile:
 - [Tom Lutz](https://github.com/tommylutz)
 - [Warren Harper](https://twitter.com/warrenharper)
 - [Geostarters](https://github.com/geostarters)
+- [Silvester Stalone](https://consequenceofsound.files.wordpress.com/2015/01/screen-shot-2015-01-01-at-5-48-18-pm.png?w=807)
