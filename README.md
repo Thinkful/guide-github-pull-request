@@ -4,3 +4,4 @@
 This guide lives at [Thinkful.com/learn/github-pull-request](http://www.thinkful.com/learn/github-pull-request-tutorial/).
 
 Suggestions and pull requests welcome :smiley:
+Excellent guide !
