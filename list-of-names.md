@@ -23,4 +23,5 @@ Or your GitHub profile:
 - [Justin Hill](https://github.com/JMHill)
 - [Tom Lutz](https://github.com/tommylutz)
 - [Warren Harper](https://twitter.com/warrenharper)
+- [Pranshu](https://twitter.com/pranshu211)
 - [Geostarters](https://github.com/geostarters)
