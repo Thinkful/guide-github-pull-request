@@ -9,7 +9,7 @@ Or your GitHub profile:
 
 ---
 
-- [Chris Winsor](https://github.com/cwinsorrrrr)
+- [Chris Winsor](https://github.com/cwinsorxxxxx)
 - [Carl Sednaoui](https://twitter.com/carlsednaoui)
 - [Kara Leary](https://twitter.com/kalaliana)
 - [Peter Munro](https://twitter.com/peter_munro)
