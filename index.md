@@ -108,7 +108,7 @@ Before you can do anything, you need to be able to make changes to the code. Fol
 - You now have a copy of the repo you just forked, available in your GitHub account
 ![Fork success](http://f.cl.ly/items/1k2S0C1f062b1c470D2e/fork-success.png)
 
-- Clone the repo locally by running `git clone git@github.com:<your github username>/guides-github-pull-request.git` in your terminal
+- Clone the repo locally by running `git clone git@github.com:<your github username>/guide-github-pull-request.git` in your terminal
 - Open this repo in your terminal and run the following command to create a new branch `git checkout -b add-your-name`
 
 ![git checkout command screenshot](http://f.cl.ly/items/193B3x0c0w2b193I3b0e/Screen%20Shot%202014-09-04%20at%2011.20.53%20AM.png)
