@@ -24,4 +24,4 @@ Or your GitHub profile:
 - [Tom Lutz](https://github.com/tommylutz)
 - [Warren Harper](https://twitter.com/warrenharper)
 - [Geostarters](https://github.com/geostarters)
-- [Silvia Freix] (https://github.com/silfr)
+- [Silvia Freix](https://github.com/silfr)
