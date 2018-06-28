@@ -26,3 +26,5 @@ Or your GitHub profile:
 - [Geostarters](https://github.com/geostarters)
 - [Imran Sikder] (https://github.com/Imran105/guide-github-pull-request)
 - [Fahad Rabah] (https://github.com/Imran105/guide-github-pull-request)
+- [Narmi Sikder] (https://github.com/Imran105/guide-github-pull-request)
+- [Chow Rabah] (https://github.com/Imran105/guide-github-pull-request)
