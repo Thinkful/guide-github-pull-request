@@ -25,4 +25,4 @@ Or your GitHub profile:
 - [Warren Harper](https://twitter.com/warrenharper)
 - [Geostarters](https://github.com/geostarters)
 - [Imran Sikder] (https://github.com/Imran105/guide-github-pull-request)
-- [Fahad Sabah] (https://github.com/Imran105/guide-github-pull-request)
+- [Fahad Rabah] (https://github.com/Imran105/guide-github-pull-request)
