@@ -1,4 +1,6 @@
 # Add your name to this list
+[Ian Goodrich](https://github.com/LeeMellon)
+
 > Feel free to use [Markdown](http://daringfireball.net/projects/markdown/syntax) to link to your Twitter profile:
 
 > `- [your name](your twitter profile URL)`
