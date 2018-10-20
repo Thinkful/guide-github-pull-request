@@ -10,6 +10,7 @@ Or your GitHub profile:
 ---
 
 - [Carl Sednaoui](https://twitter.com/carlsednaoui)
+  [shehasv](https://github.com/shehasv)
 - [Kara Leary](https://twitter.com/kalaliana)
 - [Peter Munro](https://twitter.com/peter_munro)
 - [Jose Collas](https://twitter.com/goatstone)
