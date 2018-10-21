@@ -17,6 +17,7 @@ Or your GitHub profile:
 - [Miguel Flores](https://twitter.com/bodhidweller)
 - [Daniel Maldonado](https://twitter.com/danielmdesigns)
 - [Michael Hacker](https://twitter.com/nealhacker)
+- [Tammy Davis] (https://github.com/tshade2011)
 - [Shannon Tsaltas](https://github.com/tsaltas)
 - [Sachin Kelkar](https://github.com/s4chin)
 - [Ben Anabh](https://github.com/banbh)
