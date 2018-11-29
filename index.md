@@ -133,3 +133,6 @@ Congrats on the successful pull request, and here's to many more!
 ### Keep Tabs on The Project
 
 Hey congrats on getting your pull request merged! If there's any project you're interested in, you might want to keep an eye on it in case you can help out in the future. Use the watch button on the repo — and the subscribe and unsubscribe buttons on individual issues — to keep up with things. Who knows, some day you might become a core contributor! :smiley:
+
+
+Kyle Marlowe
