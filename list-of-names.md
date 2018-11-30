@@ -5,10 +5,10 @@
 
 Or your GitHub profile:
 
-> `- [your name](your github profile URL)`
+> `- [your name](your gitHub profile URL)`
 
 ---
-
+- [John Kirby](https://github.com/johnkirby2)
 - [Carl Sednaoui](https://twitter.com/carlsednaoui)
 - [Kara Leary](https://twitter.com/kalaliana)
 - [Peter Munro](https://twitter.com/peter_munro)
