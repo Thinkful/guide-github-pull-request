@@ -5,7 +5,7 @@
 
 Or your GitHub profile:
 
-> `- [your name](your gitHub profile URL)`
+> `- [your name](your github profile URL)`
 
 ---
 - [John Kirby](https://github.com/johnkirby2)
