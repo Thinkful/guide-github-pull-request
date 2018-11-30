@@ -8,7 +8,7 @@ Or your GitHub profile:
 > `- [your name](your github profile URL)`
 
 ---
-
+- [Matt Passarelli]
 - [Carl Sednaoui](https://twitter.com/carlsednaoui)
 - [Kara Leary](https://twitter.com/kalaliana)
 - [Peter Munro](https://twitter.com/peter_munro)
