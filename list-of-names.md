@@ -25,4 +25,5 @@ Or your GitHub profile:
 - [Warren Harper](https://twitter.com/warrenharper)
 - [Geostarters](https://github.com/geostarters)
 - [Daniel Davidson](https://www.gooooooogle.com)
+- [Some other person](https://www.yahoo.com)
 
