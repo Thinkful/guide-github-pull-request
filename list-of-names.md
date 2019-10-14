@@ -5,7 +5,7 @@
 
 Or your GitHub profile:
 
-> `- [your name](your github profile URL)`
+> `- Jesse Orange
 
 ---
 
