@@ -6,7 +6,7 @@
 Or your GitHub profile:
 
 > `- [your name](your github profile URL)`
-WHATEVER
+
 ---
 
 - [Carl Sednaoui](https://twitter.com/carlsednaoui)
@@ -23,4 +23,5 @@ WHATEVER
 - [Justin Hill](https://github.com/JMHill)
 - [Tom Lutz](https://github.com/tommylutz)
 - [Warren Harper](https://twitter.com/warrenharper)
+- [Geostarters](https://github.com/geostarters)
 - [Geostarters](https://github.com/geostarters)
