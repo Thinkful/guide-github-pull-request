@@ -24,3 +24,5 @@ Or your GitHub profile:
 - [Tom Lutz](https://github.com/tommylutz)
 - [Warren Harper](https://twitter.com/warrenharper)
 - [Geostarters](https://github.com/geostarters)
+- [Matthew Fernando](https://twitter.com/Matheorism)
+- [Reisephotobooth](https://www.facebook.com/reisephotobooth)
