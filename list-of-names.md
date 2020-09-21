@@ -24,4 +24,4 @@ Or your GitHub profile:
 - [Tom Lutz](https://github.com/tommylutz)
 - [Warren Harper](https://twitter.com/warrenharper)
 - [Geostarters](https://github.com/geostarters)
-- [Tim McConnaugh](https://twitter.com/juangolbez)
+- [Tim McConnaughy](https://twitter.com/juangolbez)
