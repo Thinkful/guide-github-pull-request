@@ -1,10 +1,10 @@
-# Making an Epic Pull Request
+# Making an Epic Pull Requests
 
 Having your first pull request (PR) accepted in an open source project is one of the best feelings there is when it comes to working with open source code. There's nothing like working with other people, contributing to a project you care about, and showing off your crazy coding skills through a great PR. This guide will establish some guidelines on how to make your PRs amazing!
 
 At the end of this guide we've included a step-by-step walkthrough to get you to **submit your first pull request** :)
 
-### Finding a Project to Contribute to
+### Finding a Project to Contribute
 
 A lot of people wonder how to find a project to contribute and/or make a pull request to. Luckily, this question has an easy answer: contribute to projects you use. You should not be browsing GitHub for random projects and trying to contribute to one of them. You should write code as you normally do, use other peoples' libraries, and when you find a bug or something you'd like to add, then think about contributing.
 
