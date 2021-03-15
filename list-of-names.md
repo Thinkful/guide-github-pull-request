@@ -10,17 +10,3 @@ Or your GitHub profile:
 ---
 
 - [Carl Sednaoui](https://twitter.com/carlsednaoui)
-- [Kara Leary](https://twitter.com/kalaliana)
-- [Peter Munro](https://twitter.com/peter_munro)
-- [Jose Collas](https://twitter.com/goatstone)
-- [Phuc Nguyen](https://twitter.com/phuc89)
-- [Miguel Flores](https://twitter.com/bodhidweller)
-- [Daniel Maldonado](https://twitter.com/danielmdesigns)
-- [Michael Hacker](https://twitter.com/nealhacker)
-- [Shannon Tsaltas](https://github.com/tsaltas)
-- [Sachin Kelkar](https://github.com/s4chin)
-- [Ben Anabh](https://github.com/banbh)
-- [Justin Hill](https://github.com/JMHill)
-- [Tom Lutz](https://github.com/tommylutz)
-- [Warren Harper](https://twitter.com/warrenharper)
-- [Geostarters](https://github.com/geostarters)
