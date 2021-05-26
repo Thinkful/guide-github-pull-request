@@ -9,6 +9,7 @@ Or your GitHub profile:
 
 ---
 
+- [Joao Oliveira](https://github.com/joaomcoliveira)
 - [Carl Sednaoui](https://twitter.com/carlsednaoui)
 - [Kara Leary](https://twitter.com/kalaliana)
 - [Peter Munro](https://twitter.com/peter_munro)
