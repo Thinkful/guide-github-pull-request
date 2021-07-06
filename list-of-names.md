@@ -24,3 +24,7 @@ Or your GitHub profile:
 - [Tom Lutz](https://github.com/tommylutz)
 - [Warren Harper](https://twitter.com/warrenharper)
 - [Geostarters](https://github.com/geostarters)
+- [Daniel Davidson](https://www.gooooooogle.com)
+- [Some other person](https://www.yahoo.com)
+- MORE TEXT
+
